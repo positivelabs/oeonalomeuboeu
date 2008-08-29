@@ -1,0 +1,207 @@
+﻿a:link {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:hover {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFCC;
+	text-decoration: none;
+}
+a:active {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.footerLink:link {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-align: center;
+	text-decoration: none;
+}
+a.footerLink:visited {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-align: center;
+	text-decoration: none;
+}
+a.footerLink:hover {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFCC;
+	text-align: center;
+	text-decoration: none;
+}
+a.footerLink:active {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-align: center;
+	text-decoration: none;
+}
+a.HParticleLink:link {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.HParticleLink:visited {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.HParticleLink:hover {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFCC;
+	text-decoration: underline;
+}
+a.HParticleLink:active {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.NormalLink:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif, "Trebuchet MS";
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: underline;
+}
+a.NormalLink:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif, "Trebuchet MS";
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: underline;
+}
+a.NormalLink:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif, "Trebuchet MS";
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: underline;
+}
+a.NormalLink:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif, "Trebuchet MS";
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: underline;
+}
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif, "Trebuchet MS";
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	line-height: 18px;
+	margin-top: 3px;
+	padding-top: 3px;
+	margin-bottom: 2px;
+	padding-bottom: 2px;
+}
+h1 {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 22px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+h2 {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 16px;
+	font-weight: bold;
+	color: #999999;
+	text-decoration: none;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+h3 {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 18px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+.footer {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 11px;
+	color: #333333;
+	text-align: center;
+}
+.hpTitle {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 22px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	line-height: 20px;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+.hpSmallTitle {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFCC;
+	text-decoration: none;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.imageBorder {
+	margin: 1px;
+	padding: 1px;
+	border: 3px double #868866;
+}
+.hpArticles {
+	font-family: "Trebuchet MS", Verdana, Arial;
+	font-size: 11px;
+	text-align: left;
+	line-height: 13px;
+	margin-top: 7px;
+	padding-top: 7px;
+}
+li {
+	font-family: Verdana, Arial, Helvetica, sans-serif, "Trebuchet MS";
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	line-height: 18px;
+}

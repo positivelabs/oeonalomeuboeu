@@ -1,0 +1,24 @@
+application: helixhealthhome
+version: 1
+runtime: python
+api_version: 1
+
+# Note that static_dir handlers do not use a regular expression for the URL pattern, only a prefix.
+# Use static_files for reg-ex
+
+handlers:
+
+- url: /images
+  static_dir: images
+
+- url: /send_form
+  script: email_contact.py
+
+- url: /(.*\.(htm|html|css|js|pdf))
+  static_files: \1
+  upload: .*\.(htm|html|css|js|pdf)
+
+- url: /
+  static_files: default.htm
+  upload: default.htm
+
